@@ -19,5 +19,6 @@ cin>>a>>b;
 int c=add(a,b);
 cout<<"Addition of two number is "<<c<<endl;
 cout<<"DIFFERENCE OF TWO NO. IS"<<sub(a,b);
+//two func added
 return 0;
 }
